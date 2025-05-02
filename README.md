@@ -65,6 +65,6 @@ Recommendations based on 'The Dark Knight':
 3. Man of Steel (Similarity Score: 0.85)
 
 📂 File Structure
-├── movie_recommender.py     # Main Python script
-├── movies.csv               # Dataset file
+├── Movie_Recommender.py     # Main Python script
+├── Movies.csv               # Dataset file
 └── README.md                # This file
